@@ -1,0 +1,4 @@
+Installation guide
+------------------
+
+This is how to install something. Use the installer and wow!
