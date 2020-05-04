@@ -3,3 +3,5 @@ Here are the instructions:
 etc. etc. demo text here.
 
 Please refer to the website etc. etc.
+
+Instructions changed for our sample branch.
